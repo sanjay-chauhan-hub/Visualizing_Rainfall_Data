@@ -1,5 +1,4 @@
 # Visualizing_Rainfall_Data
-Data Visualization on Rainfall in India.
 
 Context
 This data set contains monthly rainfall detail of 36 meteorological sub-divisions of India.
